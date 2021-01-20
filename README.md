@@ -1,0 +1,2 @@
+# outdoor_market_business_predictions
+This will be used as the repo containing all of the market predictions I will be making for the coyote collective business plan. I will make predictions for the following: growth of social media account, growth of blog followers, growth of outdoor industry, amount of available money in industry for content creation, and more. These predictions will utilize mostly visualizations techniques and statistical trend models
